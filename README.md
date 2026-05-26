@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-kanchan.waldia0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kanchan.waldia0@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-KanchanWaldia-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/KanchanWaldia)
 [![GSSoC](https://img.shields.io/badge/GSSoC-2026_Contributor-1D9E75?style=flat)](https://gssoc.girlscript.tech)
-![Profile Views](https://komarev.com/ghpvc/?username=KanchanWaldia&color=1D9E75&style=flat)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ## about me
 
-I'm passionate about building systems that are fast, scalable, and well-designed — with a strong interest in backend engineering, distributed systems, and ML. I love understanding how things work under the hood — databases, APIs, real-time architectures — and turning that curiosity into projects that actually solve problems.
+I'm passionate about building systems that are fast, scalable, and well-designed — with a strong interest in backend engineering, distributed systems, and ML. I love understanding how things work under the hood — databases, APIs, real-time architectures — and turning that curiosity into projects that actually solve problems. I mostly work with Python and JavaScript, currently learning backend development and DSA properly. Still figuring things out, but building as I go.
 
 - 🔧 &nbsp; Building backend projects with Node.js, Express, and FastAPI
 - 🗄️ &nbsp; Working with PostgreSQL, MongoDB, and Redis
@@ -46,7 +45,6 @@ I'm passionate about building systems that are fast, scalable, and well-designed
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
